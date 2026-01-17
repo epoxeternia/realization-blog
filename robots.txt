@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://epoxeternia.github.io/realization-blog/sitemap.xml
